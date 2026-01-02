@@ -1,2 +1,2 @@
-- 👋 Hi, We are Thunderstorm Games LLC We make apps and games.
+- 👋 Hi, We are Thunderstorm Games! We make apps and games.
 - ⚡ Fun fact: DUST was never supposed to be released!
